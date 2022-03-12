@@ -16,7 +16,7 @@ mock==3.0.5
 munch==2.5.0
 numpy==1.17.4
 packaging==19.2
-Pillow==6.2.1
+Pillow==9.0.1
 protobuf==3.11.0
 py-cpuinfo==5.0.0
 pyparsing==2.4.5
