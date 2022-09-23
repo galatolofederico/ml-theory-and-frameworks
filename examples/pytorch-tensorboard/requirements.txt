@@ -17,7 +17,7 @@ munch==2.5.0
 numpy==1.17.4
 packaging==19.2
 Pillow==6.2.1
-protobuf==3.11.0
+protobuf==3.18.3
 py-cpuinfo==5.0.0
 pyparsing==2.4.5
 sacred==0.8.0
